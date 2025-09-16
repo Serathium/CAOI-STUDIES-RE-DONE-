@@ -11,7 +11,7 @@ Almost one-to-one, ie. one low-level instruction (assembly) for one machine inst
 
 ## High-level  
 
-Many high-level instruction for one machine instruction.
+One high-level instruction for many machine instructions.
 
 # Instruction Format  
 
